@@ -29,7 +29,7 @@ processManagement:
 # network interfaces
 net:
   port: 27017
-  bindIp: 10.5.0.12
+  bindIp: 0.0.0.0
 
 
 
